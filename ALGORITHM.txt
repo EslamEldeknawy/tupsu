@@ -1,0 +1,10 @@
+keys
+ when no menu
+pressing up will swith on the relay then the psu is powered
+pressing down long will switch off the relay and psu will switch off tells you to power off
+
+menu
+by pressing left or right the menue should appear 
+
+ 1 - adujustments 
+voltage > set the voltage minimum value after this value there is a message will appear tells you 
